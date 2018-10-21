@@ -1,0 +1,14 @@
+E:\ООП 3 сем\delete\delete\bin\Debug\delete.exe.config
+E:\ООП 3 сем\delete\delete\bin\Debug\delete.exe
+E:\ООП 3 сем\delete\delete\bin\Debug\delete.pdb
+E:\ООП 3 сем\delete\delete\obj\Debug\delete.csprojAssemblyReference.cache
+E:\ООП 3 сем\delete\delete\obj\Debug\delete.csproj.CoreCompileInputs.cache
+E:\ООП 3 сем\delete\delete\obj\Debug\delete.exe
+E:\ООП 3 сем\delete\delete\obj\Debug\delete.pdb
+E:\ООП 3 сем\3 LABA\delete\bin\Debug\delete.exe.config
+E:\ООП 3 сем\3 LABA\delete\bin\Debug\delete.exe
+E:\ООП 3 сем\3 LABA\delete\bin\Debug\delete.pdb
+E:\ООП 3 сем\3 LABA\delete\obj\Debug\delete.csprojAssemblyReference.cache
+E:\ООП 3 сем\3 LABA\delete\obj\Debug\delete.csproj.CoreCompileInputs.cache
+E:\ООП 3 сем\3 LABA\delete\obj\Debug\delete.exe
+E:\ООП 3 сем\3 LABA\delete\obj\Debug\delete.pdb
