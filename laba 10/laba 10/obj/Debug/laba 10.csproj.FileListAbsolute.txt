@@ -1,0 +1,7 @@
+E:\ООП 3 сем\laba 10\laba 10\bin\Debug\laba 10.exe.config
+E:\ООП 3 сем\laba 10\laba 10\bin\Debug\laba 10.exe
+E:\ООП 3 сем\laba 10\laba 10\bin\Debug\laba 10.pdb
+E:\ООП 3 сем\laba 10\laba 10\obj\Debug\laba 10.csprojAssemblyReference.cache
+E:\ООП 3 сем\laba 10\laba 10\obj\Debug\laba 10.csproj.CoreCompileInputs.cache
+E:\ООП 3 сем\laba 10\laba 10\obj\Debug\laba 10.exe
+E:\ООП 3 сем\laba 10\laba 10\obj\Debug\laba 10.pdb
