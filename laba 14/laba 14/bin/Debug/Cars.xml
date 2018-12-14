@@ -1,0 +1,11 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Cars>
+  <car name="Peugeot 3008">
+    <company>Peugeot</company>
+    <price>15000</price>
+  </car>
+  <car name="Volkswagen Golf">
+    <company>Volkswagen</company>
+    <price>30000</price>
+  </car>
+</Cars>

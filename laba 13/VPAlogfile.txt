@@ -1,0 +1,5 @@
+File name: VPAfileInfo.txt
+Full file path: E:\ООП 3 сем\laba 13\VPAfileInfo.txt
+Date and time of file creation by user: 12.12.2018 21:44:29
+Date and time the file was last modified by the user.: 12.12.2018 21:47:50
+File existence: True
